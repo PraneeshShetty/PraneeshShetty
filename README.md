@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praneeshshetty</h1>
+<h1 align="center">Hi 👋, I'm Praneesh Shetty</h1>
 <h3 align="center">🌟 Turning Ideas into Code | Exploring AI, Web Development, and Open Source 🌍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneeshshetty&label=Profile%20views&color=0e75b6&style=flat" alt="praneeshshetty" /> </p>
