@@ -1,6 +1,6 @@
 <!-- Name in 3D -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=1000&lines=👋+Hey+There!+I'm+Praneesh+Shetty;🚀+Tech+Enthusiast+|+Full-Stack+Developer;🔥+Passionate+about+AI+and+ML;💻+Coding+since+my+college+days;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=1000&lines=👋+Hey+There!+I'm+Praneesh+Shetty;🚀+Tech+Enthusiast+|+Full-Stack+Developer;🔥" />
 </h1>
 
 <p align="center">
@@ -40,7 +40,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### **Version Control & Databases**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### **Data Analytics & Additional Skills**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
