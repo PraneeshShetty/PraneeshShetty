@@ -1,6 +1,6 @@
 <!-- Name in 3D -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=1000&lines=👋+Hey+There!+I'm+Praneesh+Shetty;🚀+Tech+Enthusiast+|+Full-Stack+Developer;🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=1000&lines=👋+Hey+There!+I'm+Praneesh+Shetty;🚀+Tech+Enthusiast+|+Full-Stack+Developer;" />
 </h1>
 
 <p align="center">
