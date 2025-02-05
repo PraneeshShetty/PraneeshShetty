@@ -54,13 +54,17 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
-
 ## 📊 **GitHub Stats**
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PraneeshShetty&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraneeshShetty&theme=radical" alt="GitHub Streak" />
 </p>
+
+Try this and let me know if it works!
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PraneeshShetty&theme=radical" alt="GitHub Trophies" />
