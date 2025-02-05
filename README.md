@@ -60,11 +60,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraneeshShetty&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=PraneeshShetty&theme=radical" alt="GitHub Streak" />
 </p>
-
-Try this and let me know if it works!
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PraneeshShetty&theme=radical" alt="GitHub Trophies" />
