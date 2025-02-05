@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=PraneeshShetty&theme=radical" alt="GitHub Streak" />
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraneeshShetty&theme=radical)
 </p>
 
 <p align="center">
