@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/? PraneeshShetty=DenverCoder1)](https://git.io/streak-stats)
+(https://streak-stats.demolab.com/? PraneeshShetty=DenverCoder1)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
