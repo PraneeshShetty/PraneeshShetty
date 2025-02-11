@@ -57,13 +57,12 @@
 </p>
 
 <p align="center">
-(https://streak-stats.demolab.com/? PraneeshShetty=DenverCoder1)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com/?user=PraneeshShetty&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PraneeshShetty&theme=radical" alt="GitHub Trophies" />
 </p>
-
 ---
 
 ## 🔗 **Connect with Me**
