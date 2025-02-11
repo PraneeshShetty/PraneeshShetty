@@ -52,24 +52,18 @@
 
 ---
 ## 📊 **GitHub Stats**
+## 📊 **GitHub Stats**
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PraneeshShetty&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=PraneeshShetty&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PraneeshShetty=dark&hide_border=false" /> 
-</td>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PraneeshShetty&theme=radical" alt="GitHub Streak" />
+</p>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PraneeshShetty&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PraneeshShetty&theme=radical" alt="GitHub Trophies" />
+</p>
 ---
 
 ## 🔗 **Connect with Me**
