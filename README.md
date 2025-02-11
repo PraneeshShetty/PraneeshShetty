@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=PraneeshShetty&theme=radical" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/? PraneeshShetty=DenverCoder1)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
