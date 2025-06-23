@@ -1,39 +1,25 @@
-<h1 align="center">Hi there! I'm Praneesh Shetty 👋</h1>
+<!-- Banner GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+&+ML+Enthusiast;Community+Builder;Tech+Speaker+%7C+Leader;Lifelong+Learner&center=true&width=500&height=45">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
 </p>
 
+<h1 align="center">Hi, I'm Praneesh Shetty! 👨‍💻</h1>
+<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Community Leader | Public Speaker 🎤</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/praneeshshetty"><img src="https://img.shields.io/badge/LinkedIn-Praneesh%20Shetty-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="mailto:praneeshdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-praneeshdev@gmail.com-red?logo=gmail&style=flat-square" /></a>
-  <a href="https://github.com/praneeshshetty"><img src="https://img.shields.io/github/followers/praneeshshetty?label=Follow&style=social" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Build.+Inspire.+Repeat.;Full-Stack+Craftsman;AI/ML+Visionary;Community+Driven&center=true&color=00FEEF&width=600&height=45" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 💫 About Me
 
-🎓 I'm a 3rd-year **Information Science Engineering** student passionate about building impactful solutions using **Full-Stack Web Development**, **AI/ML**, and **Open Source**.
-
-🌱 Currently working on:
-- 🧠 **MicroFinance AI Portal** for secure decentralized lending.
-- 🌍 **WasteTrack** – A smart waste management system.
-- 🧑‍🍳 **Sahabhogan** – Connecting unused food to the needy with GPS-based redistribution.
-
-🤝 I'm also:
-- 🚀 **Tech Lead at AISE** (Association of Information Science & Educatee)
-- 🤖 Former Technical Trainer at Tanya Technologies
-- 🎙️ A public speaker, event organizer, and singer by passion!
-- 🧩 Active participant in **SIH 2024**, debates, and coding competitions
-
----
-
-## 💻 Tech Stack
+🔥 I'm a curious technologist building smart solutions with code  
+🛠️ Tech Lead @ AISE, Core Team @ SSOSC  
+🧠 Love crafting AI/ML, Web, and Open Source magic  
+🎤 Passionate about public speaking, mentorship & student empowerment  
+🎶 Also a vocalist, debate champ, and creative mind!
 
 ```yaml
-Languages:  Java, C, C++, JavaScript, Python
-Frontend:   React.js, TailwindCSS, HTML5, CSS3
-Backend:    Node.js, Express.js, Laravel, PHP
-Databases:  MongoDB, MySQL, Firebase
-Tools:      Git, GitHub, VS Code, Postman, PyCharm
-AI/ML:      NumPy, Pandas, Scikit-Learn, OpenAI APIs
+Currently Building: MicroFinance AI Portal 💰, Sahabhogan 🍲, WasteTrack ♻️
+Favorite Stack: MERN + Tailwind + Python + AI APIs
