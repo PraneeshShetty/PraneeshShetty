@@ -29,4 +29,4 @@
 ```yaml
 💼 Role:        Tech Lead @ AISE, Core @ SSOSC
 🎤 Public Side: Speaker, Debater, Vocalist
-👥 Hackathons: SIH Finalist, Code-a-thon 🏆
+👥 Hackathons: Hactivate, Code-a-thon 🏆
