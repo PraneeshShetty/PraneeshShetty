@@ -56,9 +56,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PraneeshShetty&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PraneeshShetty&theme=radical" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PraneeshShetty&theme=radical" alt="GitHub Trophies" />
