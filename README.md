@@ -10,10 +10,9 @@
 ---
 
 ## 🌟 **About Me**
-- 🎯 Passionate **Software Engineer & AI Enthusiast**  
-- 💻 Specializing in **Full-Stack Development & Data Analytics**  
-- 🚀 Always open to new opportunities & collaborations  
-- 🦉 **Fun Fact:** I'm **not** a night owl! **I'm an early bird.**  
+-  Passionate **Software Engineer & AI Enthusiast**  
+-  Specializing in **Full-Stack Development & Data Analytics**  
+-  Always open to new opportunities & collaborations 
 
 ---
 
