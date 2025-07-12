@@ -12,11 +12,9 @@
 
 Hey there! I’m **Praneesh Shetty**, a passionate software developer who loves building impactful solutions.  
 
-- 🔭 Currently exploring **MERN Stack**, AI, and cloud technologies.
-- 🎯 Focused on writing clean, scalable code and creating meaningful products.
-- 💡 Believe in continuous learning, collaboration, and giving back to the community.
-- 🏆 Winner @ Code-a-thon, Tech Debater, Community Contributor.
-- 📫 Open for exciting opportunities and collaborations.
+-  Currently exploring **MERN Stack**, AI, and cloud technologies.
+-  Focused on writing clean, scalable code and creating meaningful products.
+-  Open for exciting opportunities and collaborations.
 
 ---
 ## 🛠️ Tech Stack
@@ -130,11 +128,10 @@ Hey there! I’m **Praneesh Shetty**, a passionate software developer who loves 
 
 - [GitHub](https://github.com/PraneeshShetty)
 - [LinkedIn](https://www.linkedin.com/in/praneesh-shetty)
-- [Instagram](https://www.instagram.com/your-instagram-profile)
 
 ---
 
-*“Code with purpose. Learn with curiosity. Build with passion.”*
+*“You can do it”*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=footer)
 
