@@ -58,22 +58,7 @@ Hey there! I’m **Praneesh Shetty**, a passionate software developer who loves 
 
 ---
 
-## 📊 GitHub Stats
-
-| ![Praneesh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PraneeshShetty&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PraneeshShetty&layout=compact&theme=radical&hide_border=true) |
-| --- | --- |
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PraneeshShetty&theme=radical&hide_border=true)
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Code-a-thon Winner**
-- 🗣 **Debate Champion**
-- 👥 Active contributor to tech communities
-
----
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneeshShetty&theme=radical" alt="Profile Details Card" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PraneeshShetty&theme=radical&no-frame=true&title=Stars,Followers,Commit,Repositories,PullRequest,Issues" alt="GitHub Trophies" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraneeshShetty&theme=redical" alt="GitHub Activity Graph" /> </p>
 
 ## 🔗 Let’s Connect
 
