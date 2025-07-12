@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-# Praneesh Shetty 🚀
+# Praneesh Shetty
 
 **Full-Stack Developer**
 
@@ -19,44 +19,66 @@ Hey there! I’m **Praneesh Shetty**, a passionate software developer who loves 
 - 📫 Open for exciting opportunities and collaborations.
 
 ---
+## 🛠️ Tech Stack
 
-## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,python,c,cpp,mongodb,postgres,git,docker,postman,latex,tableau,powerbi" alt="Tech Stack Icons" />
+</p>
 
-### Languages
+---
 
-- C / C++
-- Java
-- Python
-- JavaScript
+### 💻 Programming Languages
 
-### Frontend
+- **C / C++**
+- **Java**
+- **Python**
+- **JavaScript**
 
-- HTML5, CSS3
+---
+
+### 🌐 Frontend
+
+- HTML5 & CSS3
 - Tailwind CSS
 - React.js
 
-### Backend
+---
+
+### 🛠️ Backend & Frameworks
 
 - Node.js
 - Express.js
 
-### Databases
+---
+
+### 🗄️ Databases
 
 - MongoDB
 - PostgreSQL
 - MySQL
 - SQL
 
-### Tools & Others
+---
+
+### ⚙️ Tools & DevOps
 
 - Git & GitHub
 - Docker
 - Postman
+- VS Code
+
+---
+
+### 📊 Data & Reporting
+
 - Tableau
 - Power BI
 - LaTeX
 
 ---
+
+> 🚀 **Always exploring new tools and technologies!**
+
 
 ## 📊 GitHub Insights
 
