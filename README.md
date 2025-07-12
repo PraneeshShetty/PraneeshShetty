@@ -2,7 +2,7 @@
 
 # Praneesh Shetty 🚀
 
-**Tech Enthusiast | Full-Stack Developer | AI Explorer**
+**Full-Stack Developer**
 
 ---
 
