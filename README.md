@@ -58,8 +58,52 @@ Hey there! I’m **Praneesh Shetty**, a passionate software developer who loves 
 
 ---
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneeshShetty&theme=radical" alt="Profile Details Card" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PraneeshShetty&theme=radical&no-frame=true&title=Stars,Followers,Commit,Repositories,PullRequest,Issues" alt="GitHub Trophies" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraneeshShetty&theme=redical" alt="GitHub Activity Graph" /> </p>
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PraneeshShetty&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </p>
+## 📊 GitHub Insights
+
+### ✨ Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneeshShetty&theme=github_dark" alt="Profile Details Card" />
+</p>
+
+---
+
+### 🗂️ Languages Used
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PraneeshShetty&layout=donut&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Code Frequency
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraneeshShetty&theme=github_dark" alt="Repos Per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=PraneeshShetty&theme=github_dark" alt="Commits Per Day" />
+</p>
+
+---
+
+### 💡 Contribution Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PraneeshShetty&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraneeshShetty&theme=github-compact" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 🔗 Let’s Connect
 
 - [GitHub](https://github.com/PraneeshShetty)
