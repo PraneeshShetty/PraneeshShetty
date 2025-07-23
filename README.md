@@ -20,7 +20,7 @@ Hey there! I’m **Praneesh Shetty**, a passionate software developer who loves 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,typescript,nest,java,python,c,cpp,mongodb,postgres,git,docker,postman,latex,tableau,powerbi" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,nodejs,express,typescript,nest,java,python,c,cpp,mongodb,postgres,git,docker,postman,latex,tableau,powerbi" alt="Tech Stack Icons" />
 </p>
 
 ---
