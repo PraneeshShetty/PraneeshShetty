@@ -1,9 +1,8 @@
 <!-- README.md -->
 
-# 👨‍💻 Praneesh Shetty
+# Praneesh Shetty
 
-**Full-Stack Developer | AI/ML Enthusiast | Tech Explorer**
-
+**Full-Stack Developer
 ---
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=F70000&height=200&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontColor=FFFFFF&fontSize=40)
@@ -12,9 +11,8 @@
 
 Greetings! I’m **Praneesh Shetty**, a passionate and committed software developer with a strong foundation in full-stack development, cloud-native applications, and AI-driven systems.
 
-- 💼 Currently working on **MERN stack**, **AI integration**, and **cloud-based architectures**
-- 🎯 Committed to writing **clean**, **scalable**, and **efficient** code
-- 🤝 Open to exciting collaborations, freelance gigs, and startup opportunities
+- Currently working on **MERN stack**, **AI integration**, and **cloud-based architectures**
+- Open to exciting collaborations, freelance gigs, and startup opportunities
 - 📍 Based in India | 🌍 Available for global projects
 
 ---
@@ -67,8 +65,7 @@ Greetings! I’m **Praneesh Shetty**, a passionate and committed software develo
 - Git & GitHub
 - Docker & Docker Compose
 - Postman
-- VS Code & IntelliJ
-- LaTeX
+- VS Code & Intellij
 
 ---
 
@@ -77,15 +74,9 @@ Greetings! I’m **Praneesh Shetty**, a passionate and committed software develo
 - Tableau
 - Power BI
 
----
+## GitHub Stats & Insights
 
-> 🧠 _“Consistently evolving with emerging technologies — from AI to cloud-native systems.”_
-
----
-
-## 📊 GitHub Stats & Insights
-
-### 📌 Profile Overview
+### Profile Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneeshShetty&theme=github_dark" />
@@ -101,29 +92,7 @@ Greetings! I’m **Praneesh Shetty**, a passionate and committed software develo
 
 ---
 
-### ⏱️ Activity Metrics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=PraneeshShetty&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraneeshShetty&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PraneeshShetty&theme=github_dark&utcOffset=5.5" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraneeshShetty&theme=github-compact" />
-</p>
-
----
 
 ## 📈 Profile Views
 
@@ -142,6 +111,6 @@ Greetings! I’m **Praneesh Shetty**, a passionate and committed software develo
 
 ---
 
-### 🚀 *“Building tomorrow's tech, one line of code at a time.”*
+###  *“Building tomorrow's tech, one line of code at a time.”*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=footer)
