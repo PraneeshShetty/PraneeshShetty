@@ -75,15 +75,11 @@ Hello! I’m **Praneesh Shetty**, a dedicated software developer with a strong f
 
 ## 📈 GitHub Stats & Activity
 
-### 📌 Overview
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneeshShetty&theme=github_dark" />
 </p>
 
 ---
-
-### 💬 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PraneeshShetty&show_icons=true&theme=radical" alt="GitHub Stats" />
