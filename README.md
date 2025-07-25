@@ -2,7 +2,7 @@
 
 # Praneesh Shetty
 
-**Full-Stack Developer
+Full-Stack Developer
 ---
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=F70000&height=200&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontColor=FFFFFF&fontSize=40)
