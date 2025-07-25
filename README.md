@@ -1,23 +1,25 @@
 <!-- README.md -->
 
-# Praneesh Shetty
+#  Praneesh Shetty  
+**Full-Stack Developer**
 
-Full-Stack Developer
 ---
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=F70000&height=200&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontColor=FFFFFF&fontSize=40)
 
 ## 👋 About Me
 
-Greetings! I’m **Praneesh Shetty**, a passionate and committed software developer with a strong foundation in full-stack development, cloud-native applications, and AI-driven systems.
+Hello! I’m **Praneesh Shetty**, a dedicated software developer with a strong foundation in full-stack development, cloud-native platforms, and AI-driven applications.
 
-- Currently working on **MERN stack**, **AI integration**, and **cloud-based architectures**
-- Open to exciting collaborations, freelance gigs, and startup opportunities
-- 📍 Based in India | 🌍 Available for global projects
+- Working with **MERN Stack**, **Cloud**, and **AI tools**
+- Focused on **clean code**, **system design**, and **product scalability**
+- Based in 🇮🇳 India | Open to **remote/global opportunities**
+
+> **“Delivering smart solutions with modern tech.”**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,next,nodejs,express,typescript,nest,java,python,c,cpp,mongodb,mysql,postgres,git,github,docker,postman,latex,tableau,powerbi" alt="Tech Stack Icons" />
@@ -25,58 +27,55 @@ Greetings! I’m **Praneesh Shetty**, a passionate and committed software develo
 
 ---
 
-### 💻 Programming Languages
+### 🧑‍💻 Languages
 
-- C / C++
-- Java
-- Python
-- JavaScript / TypeScript
-
----
-
-### 🌐 Frontend Technologies
-
-- HTML5, CSS3
-- Tailwind CSS
-- React.js, Vue.js, Next.js
+- **C / C++**
+- **Java**
+- **Python**
+- **JavaScript / TypeScript**
 
 ---
 
-### 🔧 Backend & Frameworks
+### 🌐 Frontend
 
-- Node.js, Express.js
-- Nest.js
-- RESTful APIs & Microservices
-
----
-
-### 🗄️ Databases
-
-- MongoDB
-- MySQL
-- PostgreSQL
-- Firebase
-- SQL
+- **HTML5**, **CSS3**, **Tailwind CSS**
+- **React.js**, **Vue.js**, **Next.js**
 
 ---
 
-### ⚙️ DevOps & Tools
+### 🛠 Backend & Frameworks
 
-- Git & GitHub
-- Docker & Docker Compose
-- Postman
-- VS Code & Intellij
+- **Node.js**, **Express.js**
+- **Nest.js**, **REST APIs**
 
 ---
 
-### 📊 Data Visualization & Reporting
+### 🗄 Databases
 
-- Tableau
-- Power BI
+- **MongoDB**, **MySQL**, **PostgreSQL**
+- **Firebase**, **SQL**
 
-## GitHub Stats & Insights
+---
 
-### Profile Overview
+### ⚙ DevOps & Tools
+
+- **Git & GitHub**, **Docker**
+- **Postman**, **VS Code**, **IntelliJ**
+
+---
+
+### 📊 Data & Visualization
+
+- **Tableau**, **Power BI**
+- **LaTeX** for documentation
+
+> **“Learning never stops. Every tool adds to the craft.”**
+
+---
+
+## 📈 GitHub Stats & Activity
+
+### 📌 Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneeshShetty&theme=github_dark" />
@@ -92,9 +91,7 @@ Greetings! I’m **Praneesh Shetty**, a passionate and committed software develo
 
 ---
 
-
-
-## 📈 Profile Views
+## 👁 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PraneeshShetty&style=for-the-badge&color=F70000&label=PROFILE+VIEWS" />
@@ -102,15 +99,19 @@ Greetings! I’m **Praneesh Shetty**, a passionate and committed software develo
 
 ---
 
-## 🌐 Let's Connect
+## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/PraneeshShetty"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/praneesh-shetty"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/PraneeshShetty">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/praneesh-shetty">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-###  *“Building tomorrow's tech, one line of code at a time.”*
+<p align="center"><strong>“Building tomorrow's tech, one line of code at a time.”</strong></p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=footer)
