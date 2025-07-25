@@ -22,55 +22,8 @@ Hello! I’m **Praneesh Shetty**, a dedicated software developer with a strong f
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,next,nodejs,express,typescript,nest,java,python,c,cpp,mongodb,mysql,postgres,git,github,docker,postman,latex,tableau,powerbi" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,next,nodejs,express,typescript,nest,java,python,c,cpp,mongodb,mysql,postgres,git,github,docker,postman,firebase,latex,tableau,powerbi" alt="Tech Stack Icons" />
 </p>
-
----
-
-### 🧑‍💻 Languages
-
-- **C / C++**
-- **Java**
-- **Python**
-- **JavaScript / TypeScript**
-
----
-
-### 🌐 Frontend
-
-- **HTML5**, **CSS3**, **Tailwind CSS**
-- **React.js**, **Vue.js**, **Next.js**
-
----
-
-### 🛠 Backend & Frameworks
-
-- **Node.js**, **Express.js**
-- **Nest.js**, **REST APIs**
-
----
-
-### 🗄 Databases
-
-- **MongoDB**, **MySQL**, **PostgreSQL**
-- **Firebase**, **SQL**
-
----
-
-### ⚙ DevOps & Tools
-
-- **Git & GitHub**, **Docker**
-- **Postman**, **VS Code**, **IntelliJ**
-
----
-
-### 📊 Data & Visualization
-
-- **Tableau**, **Power BI**
-- **LaTeX** for documentation
-
-> **“Learning never stops. Every tool adds to the craft.”**
-
 ---
 
 ## 📈 GitHub Stats & Activity
