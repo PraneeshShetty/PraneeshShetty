@@ -24,7 +24,6 @@ Hello! I’m **Praneesh Shetty**, a dedicated software developer with a strong f
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,next,nodejs,express,typescript,nest,java,python,c,cpp,mongodb,mysql,postgres,git,github,docker,postman,firebase,latex,tableau,powerbi" alt="Tech Stack Icons" />
 </p>
----
 
 ## 📈 GitHub Stats & Activity
 
