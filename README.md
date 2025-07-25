@@ -1,8 +1,8 @@
 <!-- README.md -->
 
-# Praneesh Shetty
+# 👨‍💻 Praneesh Shetty
 
-**Full-Stack Developer**
+**Full-Stack Developer | AI/ML Enthusiast | Tech Explorer**
 
 ---
 
@@ -10,108 +10,109 @@
 
 ## 👋 About Me
 
-Hey there! I’m **Praneesh Shetty**, a passionate software developer who loves building impactful solutions.  
+Greetings! I’m **Praneesh Shetty**, a passionate and committed software developer with a strong foundation in full-stack development, cloud-native applications, and AI-driven systems.
 
--  Currently exploring **MERN Stack**, AI, and cloud technologies.
--  Focused on writing clean, scalable code and creating meaningful products.
--  Open for exciting opportunities and collaborations.
+- 💼 Currently working on **MERN stack**, **AI integration**, and **cloud-based architectures**
+- 🎯 Committed to writing **clean**, **scalable**, and **efficient** code
+- 🤝 Open to exciting collaborations, freelance gigs, and startup opportunities
+- 📍 Based in India | 🌍 Available for global projects
 
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,nodejs,express,typescript,nest,java,python,c,cpp,mongodb,postgres,git,docker,postman,latex,tableau,powerbi" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,next,nodejs,express,typescript,nest,java,python,c,cpp,mongodb,mysql,postgres,git,github,docker,postman,latex,tableau,powerbi" alt="Tech Stack Icons" />
 </p>
 
 ---
 
 ### 💻 Programming Languages
 
-- **C / C++**
-- **Java**
-- **Python**
-- **JavaScript**
+- C / C++
+- Java
+- Python
+- JavaScript / TypeScript
 
 ---
 
-### 🌐 Frontend
+### 🌐 Frontend Technologies
 
-- HTML5 & CSS3
+- HTML5, CSS3
 - Tailwind CSS
-- React.js
+- React.js, Vue.js, Next.js
 
 ---
 
-### 🛠️ Backend & Frameworks
+### 🔧 Backend & Frameworks
 
-- Node.js
-- Express.js
+- Node.js, Express.js
+- Nest.js
+- RESTful APIs & Microservices
 
 ---
 
 ### 🗄️ Databases
 
 - MongoDB
-- PostgreSQL
 - MySQL
+- PostgreSQL
+- Firebase
 - SQL
 
 ---
 
-### ⚙️ Tools & DevOps
+### ⚙️ DevOps & Tools
 
 - Git & GitHub
-- Docker
+- Docker & Docker Compose
 - Postman
-- VS Code
-
----
-
-### 📊 Data & Reporting
-
-- Tableau
-- Power BI
+- VS Code & IntelliJ
 - LaTeX
 
 ---
 
-> 🚀 **Always exploring new tools and technologies!**
+### 📊 Data Visualization & Reporting
 
+- Tableau
+- Power BI
 
-## 📊 GitHub Insights
+---
 
-### ✨ Overview
+> 🧠 _“Consistently evolving with emerging technologies — from AI to cloud-native systems.”_
+
+---
+
+## 📊 GitHub Stats & Insights
+
+### 📌 Profile Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneeshShetty&theme=github_dark" alt="Profile Details Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneeshShetty&theme=github_dark" />
 </p>
 
 ---
 
-### 🗂️ Languages Used
+### 💬 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PraneeshShetty&layout=donut&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PraneeshShetty&layout=donut&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-### 📈 Code Frequency
+### ⏱️ Activity Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraneeshShetty&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=PraneeshShetty&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=PraneeshShetty&theme=github_dark" alt="Commits Per Day" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraneeshShetty&theme=github_dark" />
 </p>
 
----
-
-### 💡 Contribution Stats
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PraneeshShetty&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PraneeshShetty&theme=github_dark&utcOffset=5.5" />
 </p>
 
 ---
@@ -119,19 +120,28 @@ Hey there! I’m **Praneesh Shetty**, a passionate software developer who loves 
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraneeshShetty&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraneeshShetty&theme=github-compact" />
 </p>
 
 ---
 
-## 🔗 Let’s Connect
+## 📈 Profile Views
 
-- [GitHub](https://github.com/PraneeshShetty)
-- [LinkedIn](https://www.linkedin.com/in/praneesh-shetty)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PraneeshShetty&style=for-the-badge&color=F70000&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-*“You can do it”*
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/PraneeshShetty"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/praneesh-shetty"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 *“Building tomorrow's tech, one line of code at a time.”*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=footer)
-
