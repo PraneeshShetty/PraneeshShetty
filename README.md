@@ -25,24 +25,7 @@ Hello! I’m **Praneesh Shetty**, a dedicated software developer with a strong f
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vue,next,nodejs,express,typescript,nest,java,python,c,cpp,mongodb,mysql,postgres,git,github,docker,postman,firebase,latex,tableau,powerbi" alt="Tech Stack Icons" />
 </p>
 
-## 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneeshShetty&theme=github_dark" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PraneeshShetty&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PraneeshShetty&theme=radical" alt="GitHub Streak" />
-</p>
-
-
----
 
 ## 👁 Profile Views
 
